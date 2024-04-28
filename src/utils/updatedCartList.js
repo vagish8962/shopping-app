@@ -38,7 +38,7 @@ const updatedCartList = (cartItems) => {
 
     let totalCartCost = 0;
     const updatedItems = mergeCartItems.map((item) => {
-      const totalCost = item.offerAvailable?.length
+      const totalCost = item.offerAvailable
         ? getCostAfterOfferApplied(
             item.offerAvailable,
             item.quantity,
