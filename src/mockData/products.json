@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "cost": 35,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+            "offerAvailable": null
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "cost": 20,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+            "offerAvailable": null
+        },
+        {
+            "id": 3,
+            "name": "Melon",
+            "cost": 50,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Melon_Sugar_Baby_Matisse-9953.jpg",
+            "offerAvailable": "buyOneGetOneFree"
+        },
+        {
+            "id": 4,
+            "name": "Lime",
+            "cost": 15,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lime-Whole-Split.jpg",
+            "offerAvailable": "threeForPriceOfTwo"
+        }
+    ]
+}
